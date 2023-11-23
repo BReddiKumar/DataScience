@@ -1,0 +1,4 @@
+name,subject,marks
+Reddi,maths,50
+Kumar,science,60
+Bandaru,social,70
